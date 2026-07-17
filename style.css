@@ -1,0 +1,64 @@
+:root {
+    /* Variáveis de cores */
+    --c1: #0d6efd;
+    --c2: #9420e2;
+    --c3: #6c757d;
+    --c4: #1eff00;
+    --c5: #9d15f8;
+    --c6: #b656f7;
+    --c7: #0884f8;
+}
+
+.bg-c1 {
+    background: var(--c1);
+}
+
+.bg-c2 {
+    background: var(--c2) !important;
+}
+
+.bg-c3 {
+    background: var(--c3);
+}
+
+.bg-c5 {
+    background-color: var(--c5);
+}
+
+.b-c6 {
+    border-color: var(--c6);
+}
+
+.tc-c1 {
+    color: var(--c4);
+}
+
+.tc-c2 {
+    color: var(--c2);
+}
+
+.w-80 {
+    width: 80% !important;
+}
+
+.btn:hover {
+    opacity: 60% !important;
+    scale: 1.02 !important;
+    background-color: black;
+    color: white;
+}
+
+.min-m {
+    min-height: fit-content;
+}
+
+.stacks {
+    color: var(--c7);
+}
+
+.bah {
+
+    text-shadow: 5px 5px 6px rgba(128, 128, 128, 0.4);
+
+
+}
