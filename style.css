@@ -8,7 +8,6 @@
     --c6: #b656f7;
     --c7: #0884f8;
 }
-
 .bg-c1 {
     background: var(--c1);
 }
@@ -57,8 +56,5 @@
 }
 
 .bah {
-
     text-shadow: 5px 5px 6px rgba(128, 128, 128, 0.4);
-
-
 }
